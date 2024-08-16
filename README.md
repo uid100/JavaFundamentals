@@ -15,7 +15,7 @@ With contributions from: Dom David, Dan Sullivan
 
 ## Instructions
 
-From the ** <> Code ** dropdown link in the repository (above), download the Zip file to your computer, extract the files and import the project.
+From the **<> Code** dropdown link in the repository (above), download the Zip file to your computer, extract the files and import the project.
 
 1. Run the **Test** file (`TestM1Challenge.java`) and add the code to the source file (`M1Challenge.java`) until the tests are successful.
 2. Uncomment each test case in the test file. Do not modify the content in this file except to uncomment the tests. Modify the code (in `M1Challenge.java`) as needed for the tests to pass.
