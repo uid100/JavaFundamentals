@@ -3,7 +3,7 @@ Java Test Driven Development (TDD) project to review simple Java fundamental cod
 
 ________
 
-## Course Learning Outcome
+## Learning Outcome
 - _preliminary_
 ________
 
