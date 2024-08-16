@@ -1,6 +1,6 @@
 # Getting Started
 ## M1Challenge
-Java Test Driven Development (TDD) project to review simple Java fundamental coding and introduct unit testing ( with **JUnit** )
+Java Test Driven Development (TDD) project to review simple Java fundamental coding and introduce unit testing ( with **JUnit** )
 ________
 
 ![220px-MesaLogo](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/assets/716243/334f6724-6afa-4198-9eff-7c49c472cd35)
