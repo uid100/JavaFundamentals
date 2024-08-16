@@ -36,7 +36,7 @@ ___________
 
 ## Rubric
 
-(Rubric)[Rubric.md]
+[Rubric](Rubric.md)
 
 ___________
 
