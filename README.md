@@ -30,7 +30,7 @@ From the **<> Code** dropdown link in the repository (above), download the Zip f
 
 ___________
 
-_this repository is a subset of the CISC191 exercises derived from the CISC191M1Challenges 
-activity hosted by Professor Allan Schougaard, San Diego Mesa College._
+_this repository is a subset of the CISC191 exercises. It is derived from the CISC191M1Challenges 
+activity hosted by Professor Allan Schougaard, San Diego Mesa College, and not a direct fork._
 
 _This is an effort to decompose that repository into git submodules_
