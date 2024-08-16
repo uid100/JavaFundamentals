@@ -18,6 +18,8 @@ With contributions from:
 - Dom David,
 - [Dan Sullivan](https://github.com/uid100)
 
+-----
+
 ## Instructions
 
 From the **<> Code** dropdown link in the repository (above), download the Zip file to your computer, extract the files and import the project.
@@ -29,6 +31,12 @@ From the **<> Code** dropdown link in the repository (above), download the Zip f
     - update the javadoc comments at the top of the file to add your name as author
     - update the comments for each method in the file.
 4. Export the project as a zip file and submit your work.
+
+___________
+
+## Rubric
+
+(Rubric)[Rubric]
 
 ___________
 
