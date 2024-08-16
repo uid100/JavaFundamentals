@@ -1,8 +1,4 @@
-_this repository is a subset of the CISC191 exercises derived from the CISC191M1Challenges 
-activity hosted by Professor Allan Schougaard, San Diego Mesa College.
-
-This is an effort to decompose that repository into git submodules_
-
+# Getting Started
 ________
 
 ![220px-MesaLogo](https://github.com/schougaard/SanDiegoMesaCISC191ProgrammingChallenges/assets/716243/334f6724-6afa-4198-9eff-7c49c472cd35)
@@ -24,3 +20,10 @@ From the **<> Code** dropdown link in the repository (above), download the Zip f
     - update the javadoc comments at the top of the file to add your name as author
     - update the comments for each method in the file.
 4. Export the project as a zip file and submit your work.
+
+___________
+
+_this repository is a subset of the CISC191 exercises derived from the CISC191M1Challenges 
+activity hosted by Professor Allan Schougaard, San Diego Mesa College._
+
+_This is an effort to decompose that repository into git submodules_
