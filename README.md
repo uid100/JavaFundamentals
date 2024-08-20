@@ -24,15 +24,26 @@ With contributions from:
 
 ## Instructions
 
-From the **<> Code** dropdown link in the repository (above), download the Zip file to your computer, extract the files and import the project.
+### Open the Project
+1. From the **<> Code** dropdown link in the repository (above), download the Zip file to your computer.
+2. Extract the files to your working folder
+3. Open Eclipse and import the project. 
+   - You can use File>Import menu item or right-click in the Package Manager and choose Import.
+   - select General>Projects from Folder or Archive
+   - navigate into the project until you see the `bin` and `src` folders, and choose *open*
+4. Expand the project in the package explorer and find the 2 .java files below the src folder.
 
-1. Run the **Test** file (`TestM1Challenge.java`) and add the code to the source file (`M1Challenge.java`) until the tests are successful.
-2. Uncomment each test case in the test file. Do not modify the content in this file except to uncomment the tests. Modify the code (in `M1Challenge.java`) as needed for the tests to pass.
-3. Review and refactor any of the code (`M1Challenge.java`) as needed:
+### Complete the Assignment
+1. Run the **Test** file (`TestM1Challenge.java`) and add the code to the source file
+(`M1Challenge.java`) until the tests are successful.
+3. Uncomment each test case in the test file, one at a time. Do not modify the content 
+in this file except to uncomment the tests. Modify the code (in `M1Challenge.java`) as 
+needed for the tests to pass.
+4. Review and refactor any of the code (`M1Challenge.java`) as needed:
     - be sure your code follows good coding practices and coding style and standards.
     - update the javadoc comments at the top of the file to add your name as author
     - update the comments for each method in the file.
-4. Export the project as a zip file and submit your work.
+5. Export the project as a zip file and submit your work.
 
 ___________
 
