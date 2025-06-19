@@ -13,11 +13,11 @@ ________
 Programming challenges for San Diego Community College CISC 191 Intermediate Java classes.
 
 Created by
-- Professor Dr. Tasha Frankie
+- Professor [Dr. Tasha Frankie](https://github.com/tfrankie)
 - and Professor [Allan Schougaard](https://github.com/schougaard), San Diego Mesa College.
 
 With contributions from: 
-- Dom David,
+- [Dom David](https://github.com/domdavid),
 - [Dan Sullivan](https://github.com/uid100)
 
 -----
